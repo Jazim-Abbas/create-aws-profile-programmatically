@@ -1,7 +1,7 @@
 {
   "name": "aws-profile",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create & Manage profiles for AWS",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node ./dist/index.js"
