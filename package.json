@@ -1,0 +1,16 @@
+{
+  "name": "aws-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.1",
+    "typescript": "^4.7.4"
+  }
+}
